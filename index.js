@@ -1,4 +1,4 @@
-const endDate = new Date("10 Agu, 2024 00:00:00").getTime(); // Replace with your target date
+const endDate = new Date("01 Jan, 2025 00:00:00").getTime(); // Replace with your target date
 const startDate = new Date().getTime(); // Start time
 
 let countdown = setInterval(function updateTimer() {
